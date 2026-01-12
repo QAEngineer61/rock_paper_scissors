@@ -55,5 +55,5 @@ fun comparison(){
         RandomPC()
         println("Я загадал $PC")
     }
-start()
+    next_raund()
 }
